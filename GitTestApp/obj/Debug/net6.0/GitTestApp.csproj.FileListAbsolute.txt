@@ -1,0 +1,15 @@
+E:\LearningLab\Git\GitTestApp\GitTestApp\bin\Debug\net6.0\GitTestApp.exe
+E:\LearningLab\Git\GitTestApp\GitTestApp\bin\Debug\net6.0\GitTestApp.deps.json
+E:\LearningLab\Git\GitTestApp\GitTestApp\bin\Debug\net6.0\GitTestApp.runtimeconfig.json
+E:\LearningLab\Git\GitTestApp\GitTestApp\bin\Debug\net6.0\GitTestApp.dll
+E:\LearningLab\Git\GitTestApp\GitTestApp\bin\Debug\net6.0\GitTestApp.pdb
+E:\LearningLab\Git\GitTestApp\GitTestApp\obj\Debug\net6.0\GitTestApp.csproj.AssemblyReference.cache
+E:\LearningLab\Git\GitTestApp\GitTestApp\obj\Debug\net6.0\GitTestApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearningLab\Git\GitTestApp\GitTestApp\obj\Debug\net6.0\GitTestApp.AssemblyInfoInputs.cache
+E:\LearningLab\Git\GitTestApp\GitTestApp\obj\Debug\net6.0\GitTestApp.AssemblyInfo.cs
+E:\LearningLab\Git\GitTestApp\GitTestApp\obj\Debug\net6.0\GitTestApp.csproj.CoreCompileInputs.cache
+E:\LearningLab\Git\GitTestApp\GitTestApp\obj\Debug\net6.0\GitTestApp.dll
+E:\LearningLab\Git\GitTestApp\GitTestApp\obj\Debug\net6.0\refint\GitTestApp.dll
+E:\LearningLab\Git\GitTestApp\GitTestApp\obj\Debug\net6.0\GitTestApp.pdb
+E:\LearningLab\Git\GitTestApp\GitTestApp\obj\Debug\net6.0\GitTestApp.genruntimeconfig.cache
+E:\LearningLab\Git\GitTestApp\GitTestApp\obj\Debug\net6.0\ref\GitTestApp.dll
